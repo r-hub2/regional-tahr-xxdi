@@ -1,0 +1,21 @@
+Package: xxdi
+Type: Package
+Title: Calculate x and xd Indices
+Version: 0.0.1
+Authors@R: c(
+              person("Nilabhra Rohan", "Das", email = "nr.das@yahoo.com", role = c("cre", "aut")),
+              person("Abhirup", "Nandy", email = "abhirupnandy.online@gmail.com", role = c("aut"))
+              )
+Maintainer: <nr.das@yahoo.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Depends: R (>= 4.3.3.0)
+Imports: agop (>= 0.2.4), Matrix (>= 1.6.1.1), tidyr (>= 1.3.1), stats
+        (>= 4.3.3)
+Encoding: UTF-8
+RoxygenNote: 7.3.0
+NeedsCompilation: no
+Packaged: 2024-05-12 13:45:58 UTC; titas
+Author: Nilabhra Rohan Das [cre, aut],
+  Abhirup Nandy [aut]
