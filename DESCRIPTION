@@ -16,6 +16,6 @@ Imports: agop (>= 0.2.4), Matrix (>= 1.6.1.1), tidyr (>= 1.3.1), stats
 Encoding: UTF-8
 RoxygenNote: 7.3.0
 NeedsCompilation: no
-Packaged: 2024-05-12 13:45:58 UTC; titas
+Packaged: 2024-05-12 15:57:40 UTC; titas
 Author: Nilabhra Rohan Das [cre, aut],
   Abhirup Nandy [aut]
